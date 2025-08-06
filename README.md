@@ -38,3 +38,14 @@ La notebook está dividida en las siguientes secciones:
 2. Asegurarse de tener instaladas las librerías necesarias:
    ```bash
    pip install pandas requests
+3. Ejecutar las celdas en orden, desde la importación de datos hasta el informe final.
+4. Revisar los resultados y visualizaciones generadas.
+
+📜 Reseña Breve
+Telecom X busca comprender las causas de la pérdida de clientes.
+Mediante análisis exploratorio, se detectó que la evasión está relacionada con:
+Contratos cortos.
+Tarifas mensuales altas.
+Uso de métodos de pago como Electronic Check.
+Clientes sin pareja o dependientes.
+Estos hallazgos permiten plantear acciones concretas para mejorar la retención.
